@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://gradle.org/" align="left" display="inline-block" style="margin-right:10px">
-<img width="22px" alt="gradle" src="https://datanyze-logos.s3.amazonaws.com/technologies/a7a2496985321201d55b8806f7673e5f4aa558cf.png">
+<img width="22px" alt="gradle" src="https://gradle.org/icon/favicon-32x32.png">
 </a>
 
 <a href="https://www.mysql.com/" align="left" display="inline-block" style="margin-right:10px">
