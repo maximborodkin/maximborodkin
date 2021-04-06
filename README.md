@@ -13,7 +13,7 @@
 
 [<img align="left" display="inline-block" width="22px" alt="yandex.mail" src="https://mail.yandex.ru/u2709/favicon/png/main-favicon/144/main-favicon.png">](mailto:maxim.borodkin@yandex.ru)
 
-[<img align="left" display="inline-block" width="22px" alt="stackoverflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico">](mailto:maxim.borodkin@yandex.ru)
+[<img align="left" display="inline-block" width="22px" alt="stackoverflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico">](https://stackoverflow.com/users/14040603/maxim-borodkin)
 
 <br>
 
