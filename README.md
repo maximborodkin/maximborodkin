@@ -1,8 +1,8 @@
 ### Hi there, I'm Maxim
 
 - 🔭 I’m currently working on [Barybians application](https://github.com/maximborodkin/Barybians-Android-App)
-- 🌱 I’m currently learning Kotlin and Android
-- 👯 I’m looking to collaborate with other interested in Android development
+- 🌱 I’m interrested in Android and .NET development
+- 👯 I’m looking for interesting job or collaborate with other interested in developers
 
 ### Contact with me:
 [<img align="left" display="inline-block" width="22px" alt="vkontakte" src="https://image.flaticon.com/icons/svg/145/145813.svg">](https://vk.com/maximborodkin)
@@ -11,7 +11,9 @@
 
 [<img align="left" display="inline-block" width="22px" alt="gmail" src="https://image.flaticon.com/icons/svg/888/888853.svg">](mailto:maxim.borodkin1999@gmail.com)
 
-[<img align="left" display="inline-block" width="22px" alt="yandex.mail" src="https://mail.yandex.ru/u2709/favicon/png/main-favicon/144/main-favicon.png">](mailto:maxim.borodkin)
+[<img align="left" display="inline-block" width="22px" alt="yandex.mail" src="https://mail.yandex.ru/u2709/favicon/png/main-favicon/144/main-favicon.png">](mailto:maxim.borodkin@yandex.ru)
+
+[<img align="left" display="inline-block" width="22px" alt="stackoverflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico">](mailto:maxim.borodkin@yandex.ru)
 
 <br>
 
