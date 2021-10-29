@@ -9,7 +9,7 @@
 
 [<img align="left" display="inline-block" width="22px" alt="linkedin" src="https://image.flaticon.com/icons/svg/733/733561.svg">](https://www.linkedin.com/in/maxim-borodkin-7833091a6/)
 
-[<img align="left" display="inline-block" width="22px" alt="gmail" src="https://image.flaticon.com/icons/svg/888/888853.svg">](mailto:maxim.borodkin1999@gmail.com)
+[<img align="left" display="inline-block" width="22px" alt="gmail" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico">](mailto:maxim.borodkin1999@gmail.com)
 
 [<img align="left" display="inline-block" width="22px" alt="yandex.mail" src="https://mail.yandex.ru/u2709/favicon/png/main-favicon/144/main-favicon.png">](mailto:maxim.borodkin@yandex.ru)
 
