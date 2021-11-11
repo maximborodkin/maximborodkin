@@ -5,9 +5,9 @@
 - 👯 I’m looking for interesting job or collaborate with other interested in developers
 
 ### Contact with me:
-[<img align="left" display="inline-block" width="22px" alt="vkontakte" src="https://image.flaticon.com/icons/svg/145/145813.svg">](https://vk.com/maximborodkin)
+[<img align="left" display="inline-block" width="22px" alt="vkontakte" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE">](https://vk.com/maximborodkin)
 
-[<img align="left" display="inline-block" width="22px" alt="linkedin" src="https://image.flaticon.com/icons/svg/733/733561.svg">](https://www.linkedin.com/in/maxim-borodkin-7833091a6/)
+[<img align="left" display="inline-block" width="22px" alt="linkedin" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s180-rw">](https://www.linkedin.com/in/maxim-borodkin-7833091a6/)
 
 [<img align="left" display="inline-block" width="22px" alt="gmail" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico">](mailto:maxim.borodkin1999@gmail.com)
 
